@@ -1,1 +1,6 @@
-theme: jekyll-theme-minima
+theme: minima
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/chitrang-dev/" }
+    - { platform: linkedin,  user_url: "https://www.linkedin.com/in/chitrangdave/" }
+    - { platform: twitter, user_url: "https://twitter.com/@dChitrang" }
