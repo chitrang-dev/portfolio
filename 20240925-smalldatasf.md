@@ -23,6 +23,12 @@ https://www.linkedin.com/posts/chitrangdave_public-service-announcement-it-is-re
 10. Junran Yang shared her research in data visualization toolkits
 11. Finally, Ravit moderated a panel on big data vs small data and delivering business value with Jake Thomas, Celina Wong, James Winegar, Josh Wills
 
+Other highlights:
+- impromptu interview with Ravit
+- catching up with Zack Handlin on how Zing is integrating GenAI into the UI and the whole AI in BI revolution
+- Mingsheng on how data orgs should approach duckdb and small data
+- Felipe Hoffa on careers and doing what you love
+- Talking to George Fraser on the Fivetran roadmap, licensing, and working with the Marketo APIs
 
 Thanks to Motherduck, Ollama, Turso, and others for the great event. 
 
